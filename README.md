@@ -1,6 +1,6 @@
 # Shopping-Habits-Customer-Behavior-Analysis
 
-### 💡 Objectives
+## 💡 Objectives
 The objective of this project is to analyse the healthcare dataset and various metrics involving in it to draw meaningful insights. 
 
 ## 💡 Tools Used
