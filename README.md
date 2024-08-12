@@ -9,9 +9,9 @@ The [dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-sh
 ## 💡 Tools Used
 
 * Tools : Python
-* Installations:
 * Keywords: Customer Behaviour Analysis,  
-
+* Installations:
+  
 ## 💡 Description 
 The steps involved in building this healthcare analytics projects are mentioned below:
 * The 
