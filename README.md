@@ -1,4 +1,4 @@
-# Shopping-Habits-Customer-Behavior-Analysis
+# Shopping Habits: Customer Behavior Analysis
 
 Customer behaviour analysis refers to the process of examining and understanding how customers interact with your product, service, or brand.
 It involves collecting, interpreting, and analysing data related to customer actions to gain insights into their behaviour throughout the entire customer journey.
