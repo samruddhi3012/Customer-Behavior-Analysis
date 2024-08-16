@@ -14,7 +14,12 @@ The [dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-sh
 ## 💡 Tools Used
 * Tools : Python
 * Keywords: Customer Behaviour Analysis,  
-* Installations:
+* Installations: Numpy, Pandas, Scipy, Matplotlib and Seaborn
+  <ul>
+  <li>Scipy</li>
+  
+       pip install scipy
+</ul>
   
 ## 💡 Description 
 The steps involved in building this healthcare analytics projects are mentioned below:
