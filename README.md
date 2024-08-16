@@ -6,18 +6,18 @@ It involves collecting, interpreting, and analysing data related to customer act
 ![image_2](https://github.com/user-attachments/assets/8abcc272-f473-49e0-a199-9ed98b15e79c)
 
 ## 💡 Business Problem
-The 
+The objective of the customer behavior analysis project was to uncover key insights into customer purchase patterns, segment customers based on their behavior, and provide actionable recommendations to enhance marketing strategies, improve customer retention, and increase sales.
 
 ## 💡 Data
 The [dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data?select=shopping_behavior_updated.csv) :desktop_computer: used in this project is obtained from kaggle.
 
 ## 💡 Tools Used
-
 * Tools : Python
 * Keywords: Customer Behaviour Analysis,  
 * Installations:
   
 ## 💡 Description 
 The steps involved in building this healthcare analytics projects are mentioned below:
-* The 
+* The
+* 
  ## 💡Results
