@@ -59,3 +59,6 @@ The steps involved in building this healthcare analytics projects are mentioned 
 3. _**Promotional Strategies:**_ <br> Emphasize the benefits of discounts and promo codes to increase their usage across all demographics, particularly targeting the female segment.
 4. _**Product and Inventory Management:**_ <br> Prioritize stocking and promoting high-selling items in Clothing and Accessories, especially during Spring and Fall.
 5. _**Revenue Optimization:**_ <br> Analyze ways to boost spending among customers who frequently use discounts and promo codes while maintaining their purchase frequency.
+
+### _Thank you for visiting my repository!_
+
