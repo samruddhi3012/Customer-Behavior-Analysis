@@ -26,7 +26,7 @@ The steps involved in building this healthcare analytics projects are mentioned 
 
 * Data Preparation
   1. Imported essential libraries for data manipulation and visualization.
-  2. Cleaned the data to handle missing values, correct data types, performed outlier detection and remove inconsistencies.
+  2. Cleaned the data to handle missing values, correct data types, and removed inconsistencies.
      
 * Descriptive Analysis
 <br> Analyzed the general features of the dataset to understand customer demographics and behavior, including age distribution, top locations, gender distribution, product categories, payment methods, and shipping types.
