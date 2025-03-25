@@ -9,7 +9,7 @@ It involves collecting, interpreting, and analysing data related to customer act
 The objective of the customer behavior analysis project was to uncover key insights into customer purchase patterns, segment customers based on their behavior, and provide actionable recommendations to enhance marketing strategies, improve customer retention, and increase sales.
 
 ## 💡 Data
-The [dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data?select=shopping_behavior_updated.csv) :desktop_computer: used in this project is obtained from Kaggle.
+The [dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data?select=shopping_behavior_updated.csv) used in this project is obtained from Kaggle.
 
 ## 💡 Tools Used
 * Tools : Python
