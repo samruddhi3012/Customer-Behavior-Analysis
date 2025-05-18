@@ -41,7 +41,7 @@ The steps involved in building this healthcare analytics projects are mentioned 
   2. Analyzed average purchase amounts, total revenue by product category, and correlations between purchase amounts and other KPIs.
   3. Explored purchase patterns by season, gender, and age group.
    
- ## 💡Results
+ ## 💡Major Results
 
  1. The majority of customers fall within the **36-50** age group. This age group is also the target for frequent purchases.
  2. The male population accounts for **68%** of customers, indicating a significant gender imbalance in the customer base.
